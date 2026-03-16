@@ -12,7 +12,7 @@ Python, Google Colab, Scikit-learn, Seaborn, Graphviz
 Bank Marketing Dataset (UCI)
 
 # Files Included:
-DecisionTree_BankMarketing.ipynb
+DecisionTree_CustomerPurchase.ipynb
 
 bank-additional-full.csv
 
